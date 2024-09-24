@@ -1,0 +1,32 @@
+# Dependências
+/node_modules
+
+# Build e arquivos temporários
+/dist
+/.cache
+/build
+
+# Arquivos de log
+*.log
+
+# Ambiente de desenvolvimento
+.env
+.env.local
+.env.*.local
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outras configurações
+/public/favicon.ico
+/public/index.html
+
+# Diretórios de teste
+/coverage
